@@ -1,8 +1,7 @@
 # versus
 
 
- ## This repository will serve to implement the functionality of checking cards, more specifically, which out of two instantiated cards is 
- the winner.
+ ## This repository will serve to implement the functionality of checking cards, more specifically, which out of two instantiated cards is the winner.
 
  ### The "winning" is determined by the numbers and the suits.
 
